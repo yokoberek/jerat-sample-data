@@ -1,0 +1,388 @@
+{
+  "galleries": [
+    {
+      "id": 1,
+      "title": "Workshop Pemetaan Partisipatif Wilayah Adat 2024",
+      "slug": "workshop-pemetaan-partisipatif-2024",
+      "date": "2024-02-20",
+      "category": "Kegiatan",
+      "imageCount": 45,
+      "location": "Wamena, Papua Pegunungan",
+      "photographer": "David Wenda",
+      "thumbnail": "/papua-community-workshop-mapping.jpg",
+      "coverImage": "/papua-community-workshop-mapping.jpg",
+      "excerpt": "Dokumentasi workshop pemetaan partisipatif yang melibatkan masyarakat adat di Papua Pegunungan dalam mendokumentasikan wilayah adat mereka.",
+      "description": "<p>Workshop pemetaan partisipatif yang diselenggarakan di Wamena ini melibatkan 45 peserta dari 12 kampung adat di wilayah Papua Pegunungan. Selama 5 hari, peserta belajar menggunakan teknologi GPS dan sistem informasi geografis untuk mendokumentasikan wilayah adat mereka.</p><p>Workshop ini merupakan bagian dari program penguatan kapasitas masyarakat adat dalam dokumentasi dan perlindungan wilayah adat. Peserta tidak hanya belajar aspek teknis pemetaan, tetapi juga memahami aspek hukum pengakuan hak ulayat dan strategi advokasi.</p><h3>Kegiatan Workshop:</h3><ul><li>Pelatihan penggunaan GPS dan aplikasi pemetaan mobile</li><li>Praktik lapangan pemetaan batas wilayah adat</li><li>Dokumentasi situs-situs penting budaya dan spiritual</li><li>Pembuatan peta partisipatif menggunakan SIG</li><li>Diskusi strategi advokasi pengakuan hak ulayat</li></ul>",
+      "images": [
+        {
+          "url": "/papua-people-learning-gps.jpg",
+          "caption": "Peserta workshop belajar menggunakan GPS untuk pemetaan wilayah adat"
+        },
+        {
+          "url": "/papua-community-mapping-field.jpg",
+          "caption": "Praktik lapangan pemetaan batas wilayah adat di hutan"
+        },
+        {
+          "url": "/papua-elder-teaching-youth.jpg",
+          "caption": "Tetua adat menjelaskan batas-batas wilayah adat kepada peserta muda"
+        },
+        {
+          "url": "/papua-women-using-technology.jpg",
+          "caption": "Perempuan Papua aktif berpartisipasi dalam pelatihan teknologi pemetaan"
+        },
+        {
+          "url": "/papua-community-discussion.jpg",
+          "caption": "Diskusi kelompok tentang strategi perlindungan wilayah adat"
+        },
+        {
+          "url": "/papua-traditional-ceremony.jpg",
+          "caption": "Upacara adat pembukaan workshop"
+        }
+      ],
+      "tags": ["Workshop", "Pemetaan", "Teknologi", "Pemberdayaan", "Wilayah Adat"],
+      "featured": false
+    },
+    {
+      "id": 2,
+      "title": "Pertemuan Koordinator Regional Papua 2024",
+      "slug": "pertemuan-koordinator-regional-2024",
+      "date": "2024-03-25",
+      "category": "Pertemuan",
+      "imageCount": 18,
+      "location": "Jayapura",
+      "photographer": "Maria Kogoya",
+      "thumbnail": "/papua-regional-coordinators-meeting.jpg",
+      "coverImage": "/papua-regional-coordinators-meeting.jpg",
+      "excerpt": "Pertemuan tahunan koordinator regional JERAT Papua untuk evaluasi program dan perencanaan strategis tahun mendatang.",
+      "description": "<p>Pertemuan Koordinator Regional JERAT Papua 2024 mempertemukan 35 koordinator dari 7 wilayah adat Papua untuk melakukan evaluasi program tahun berjalan dan menyusun rencana strategis tahun mendatang. Pertemuan berlangsung selama 3 hari di kantor JERAT Papua, Jayapura.</p><h3>Agenda Pertemuan:</h3><ul><li>Presentasi laporan pencapaian program dari masing-masing wilayah</li><li>Evaluasi tantangan dan pembelajaran kunci</li><li>Workshop perencanaan strategis 2025</li><li>Penguatan koordinasi antar wilayah</li><li>Diskusi isu-isu aktual hak masyarakat adat</li></ul><h3>Hasil Pertemuan:</h3><ul><li>Rencana strategis 2025 dengan target: pengakuan 20 wilayah adat baru</li><li>Pembentukan 3 working group tematik (pemetaan, advokasi hukum, ekonomi berkelanjutan)</li><li>Sistem koordinasi dan komunikasi yang lebih efektif</li><li>Kesepakatan joint program antar wilayah</li></ul>",
+      "images": [
+        {
+          "url": "/coordinators-group-photo.jpg",
+          "caption": "Foto bersama seluruh koordinator regional JERAT Papua 2024"
+        },
+        {
+          "url": "/coordinator-presentation.jpg",
+          "caption": "Koordinator Wilayah Adat Mee Pago mempresentasikan capaian program"
+        },
+        {
+          "url": "/strategic-planning-session.jpg",
+          "caption": "Sesi workshop perencanaan strategis 2025"
+        },
+        {
+          "url": "/group-discussion-coordinators.jpg",
+          "caption": "Diskusi kelompok tentang strategi advokasi kebijakan"
+        },
+        {
+          "url": "/coordinators-traditional-opening.jpg",
+          "caption": "Pembukaan pertemuan dengan upacara adat"
+        }
+      ],
+      "tags": ["Pertemuan", "Koordinator", "Evaluasi", "Perencanaan Strategis"],
+      "featured": false
+    },
+    {
+      "id": 3,
+      "title": "Kampanye Pelestarian Keanekaragaman Hayati Papua",
+      "slug": "kampanye-pelestarian-keanekaragaman-hayati",
+      "date": "2024-05-15",
+      "category": "Kampanye",
+      "imageCount": 32,
+      "location": "Berbagai Lokasi di Papua",
+      "photographer": "Tim Dokumentasi JERAT Papua",
+      "thumbnail": "/biodiversity-campaign-papua.jpg",
+      "coverImage": "/biodiversity-campaign-papua.jpg",
+      "excerpt": "Dokumentasi kampanye publik untuk meningkatkan kesadaran tentang pentingnya pelestarian keanekaragaman hayati Papua yang unik.",
+      "description": "<p>Kampanye Pelestarian Keanekaragaman Hayati Papua adalah program advokasi publik yang berlangsung selama 3 bulan di berbagai lokasi Papua. Kampanye ini menggunakan pendekatan multimedia: pameran foto, pemutaran film dokumenter, talk show, dan media sosial untuk menjangkau berbagai kalangan masyarakat.</p><h3>Kegiatan Kampanye:</h3><ul><li>Pameran foto keliling di 5 kota: Jayapura, Manokwari, Sorong, Merauke, Timika</li><li>Pemutaran film dokumenter di 15 kampus dan sekolah</li><li>Series talk show dengan narasumber ahli biodiversitas</li><li>Lomba foto dan video dengan tema biodiversitas Papua</li><li>Kampanye media sosial dengan hashtag #JagaPapuaJagaDunia</li></ul><h3>Pesan Kampanye:</h3><ul><li>Papua adalah rumah bagi 20.000+ spesies tumbuhan</li><li>75% spesies burung Indonesia hidup di Papua</li><li>Hutan Papua menyimpan 1,8 miliar ton karbon</li><li>Masyarakat adat adalah penjaga biodiversitas terbaik</li></ul><h3>Impact Kampanye:</h3><ul><li>Jangkauan media sosial: 2,5 juta impressions</li><li>Pengunjung pameran: 8.500 orang</li><li>Petisi online: 15.000 tanda tangan</li><li>Liputan media: 35 berita di media lokal dan nasional</li></ul>",
+      "images": [
+        {
+          "url": "/biodiversity-exhibition-jayapura.jpg",
+          "caption": "Pengunjung melihat pameran foto biodiversitas Papua di Jayapura"
+        },
+        {
+          "url": "/bird-of-paradise-photography.jpg",
+          "caption": "Foto burung cenderawasih yang menjadi icon kampanye"
+        },
+        {
+          "url": "/students-watching-documentary.jpg",
+          "caption": "Siswa SMA menonton film dokumenter tentang hutan Papua"
+        },
+        {
+          "url": "/talk-show-biodiversity.jpg",
+          "caption": "Talk show dengan ahli biodiversitas di Radio Republik Indonesia Papua"
+        },
+        {
+          "url": "/community-signing-petition.jpg",
+          "caption": "Masyarakat menandatangani petisi perlindungan hutan Papua"
+        },
+        {
+          "url": "/biodiversity-poster-campaign.jpg",
+          "caption": "Pemasangan poster kampanye di ruang publik"
+        },
+        {
+          "url": "/youth-volunteers-campaign.jpg",
+          "caption": "Relawan muda menyebarkan materi kampanye"
+        }
+      ],
+      "tags": ["Kampanye", "Biodiversitas", "Konservasi", "Advokasi Publik"],
+      "featured": true
+    },
+    {
+      "id": 4,
+      "title": "Kegiatan Pemantauan Hutan Bersama Komunitas Adat",
+      "slug": "pemantauan-hutan-komunitas-adat",
+      "date": "2024-06-10",
+      "category": "Kegiatan",
+      "imageCount": 24,
+      "location": "Kabupaten Jayapura",
+      "photographer": "Yohanes Mambrasar",
+      "thumbnail": "/forest-monitoring-community.jpg",
+      "coverImage": "/forest-monitoring-community.jpg",
+      "excerpt": "Dokumentasi kegiatan pemantauan kondisi hutan yang dilakukan bersama tim monitor komunitas dari 6 kampung adat.",
+      "description": "<p>Kegiatan pemantauan hutan rutin yang dilakukan setiap 3 bulan oleh tim monitor komunitas dari 6 kampung adat di Kabupaten Jayapura. Pemantauan kali ini difokuskan pada deteksi dini aktivitas ilegal logging dan perambahan hutan di zona penyangga wilayah adat.</p><h3>Tim Monitor Komunitas:</h3><ul><li>24 orang monitor dari 6 kampung</li><li>3 fasilitator lapangan JERAT Papua</li><li>2 teknisi GIS untuk pendampingan teknis</li></ul><h3>Metode Pemantauan:</h3><ul><li>Patroli rutin di jalur-jalur monitoring yang telah ditentukan</li><li>Pencatatan data menggunakan aplikasi mobile GIS</li><li>Pengambilan foto georeferenced untuk dokumentasi</li><li>Wawancara dengan masyarakat tentang perubahan kondisi hutan</li><li>Pengambilan sampel air sungai untuk uji kualitas</li></ul><h3>Temuan:</h3><ul><li>Terdeteksi 3 titik aktivitas penebangan liar di zona penyangga</li><li>Jejak kendaraan berat di area yang seharusnya tidak boleh diakses</li><li>Penurunan kualitas air di 2 anak sungai</li><li>Populasi satwa kunci (kasuari) masih stabil di area inti</li></ul><h3>Tindak Lanjut:</h3><ul><li>Laporan resmi ke Dinas Kehutanan dan Polisi Kehutanan</li><li>Pemasangan papan peringatan di titik-titik rawan</li><li>Intensifikasi patroli di area yang terindikasi</li><li>Mediasi dengan komunitas perbatasan tentang batas wilayah</li></ul>",
+      "images": [
+        {
+          "url": "/community-monitors-patrol.jpg",
+          "caption": "Tim monitor komunitas melakukan patroli hutan"
+        },
+        {
+          "url": "/gps-data-recording.jpg",
+          "caption": "Pencatatan data menggunakan GPS dan aplikasi mobile"
+        },
+        {
+          "url": "/illegal-logging-evidence.jpg",
+          "caption": "Dokumentasi bukti aktivitas penebangan liar"
+        },
+        {
+          "url": "/water-quality-sampling.jpg",
+          "caption": "Pengambilan sampel air untuk uji kualitas"
+        },
+        {
+          "url": "/monitors-discussion.jpg",
+          "caption": "Diskusi tim tentang temuan di lapangan"
+        },
+        {
+          "url": "/warning-sign-installation.jpg",
+          "caption": "Pemasangan papan peringatan larangan menebang"
+        }
+      ],
+      "tags": ["Pemantauan", "Hutan", "Komunitas", "Konservasi"],
+      "featured": true
+    },
+    {
+      "id": 5,
+      "title": "Ekspedisi Dokumentasi Hutan Hujan Papua",
+      "slug": "ekspedisi-dokumentasi-hutan-hujan",
+      "date": "2024-04-15",
+      "category": "Ekspedisi",
+      "imageCount": 67,
+      "location": "Pegunungan Tengah Papua",
+      "photographer": "Tim Ekspedisi JERAT Papua & National Geographic",
+      "thumbnail": "/rainforest-expedition-papua.jpg",
+      "coverImage": "/rainforest-expedition-papua.jpg",
+      "excerpt": "Ekspedisi ilmiah dan dokumentasi selama 21 hari ke jantung hutan hujan Papua yang masih pristine untuk penelitian biodiversitas.",
+      "description": "<p>Ekspedisi ilmiah dan dokumentasi visual 21 hari ke kawasan hutan hujan tropis Pegunungan Tengah Papua yang masih sangat minim penelitian. Tim gabungan peneliti biodiversitas, fotografer, dan masyarakat adat lokal melakukan pendataan flora, fauna, dan ekosistem hutan sekaligus menghasilkan dokumentasi visual berkualitas tinggi.</p><h3>Tim Ekspedisi:</h3><ul><li>8 peneliti biodiversitas (botanis, zoologis, ekologis)</li><li>5 fotografer profesional dari JERAT Papua dan National Geographic</li><li>6 guide lokal dari masyarakat adat</li><li>4 porter dan support crew</li></ul><h3>Rute & Durasi:</h3><ul><li>Base camp: Kampung Ugimba (1.800 mdpl)</li><li>Area survey: radius 15 km dari base camp</li><li>Elevasi: 1.600 - 3.200 mdpl</li><li>Durasi: 21 hari (termasuk perjalanan pulang-pergi)</li></ul><h3>Fokus Dokumentasi:</h3><ul><li>Landscape hutan hujan dari berbagai ketinggian</li><li>Close-up flora endemik Papua</li><li>Satwa liar dalam habitat alami</li><li>Ekosistem khusus (sungai, air terjun, rawa)</li><li>Kehidupan masyarakat adat penjaga hutan</li><li>Time-lapse perubahan cuaca dan kondisi hutan</li></ul><h3>Hasil Dokumentasi:</h3><ul><li>3.500+ foto landscape dan wildlife</li><li>120 jam footage video</li><li>Spesimen herbarium 340 spesies tumbuhan</li><li>Audio recording 85 spesies burung</li><li>Data GPS 1.200+ waypoints penting</li></ul><h3>Temuan Signifikan:</h3><ul><li>2 spesies katak yang diduga baru untuk sains</li><li>Populasi sehat burung cenderawasih langka</li><li>Hutan moss yang ekstensif di atas 2.500 mdpl</li><li>120+ spesies anggrek epifit</li></ul><h3>Penggunaan Hasil:</h3><ul><li>Pameran foto internasional</li><li>Publikasi jurnal ilmiah internasional</li><li>Film dokumenter untuk National Geographic</li><li>Buku foto 'Hutan Papua: The Last Eden'</li><li>Materi kampanye konservasi</li></ul>",
+      "images": [
+        {
+          "url": "/expedition-team-departure.jpg",
+          "caption": "Tim ekspedisi berangkat dari Kampung Ugimba"
+        },
+        {
+          "url": "/pristine-rainforest-canopy.jpg",
+          "caption": "Kanopi hutan hujan yang masih pristine"
+        },
+        {
+          "url": "/bird-of-paradise-male-display.jpg",
+          "caption": "Burung cenderawasih jantan dalam ritual kawin"
+        },
+        {
+          "url": "/endemic-orchid-species.jpg",
+          "caption": "Spesies anggrek endemik Papua yang langka"
+        },
+        {
+          "url": "/waterfall-rainforest.jpg",
+          "caption": "Air terjun tersembunyi di tengah hutan"
+        },
+        {
+          "url": "/tree-kangaroo-wild.jpg",
+          "caption": "Kanguru pohon dalam habitat alaminya"
+        },
+        {
+          "url": "/moss-forest-highland.jpg",
+          "caption": "Hutan moss di ketinggian 2.800 mdpl"
+        },
+        {
+          "url": "/local-guide-forest-knowledge.jpg",
+          "caption": "Guide lokal berbagi pengetahuan tentang tumbuhan obat"
+        },
+        {
+          "url": "/researchers-collecting-specimens.jpg",
+          "caption": "Peneliti mengumpulkan spesimen untuk herbarium"
+        },
+        {
+          "url": "/camp-in-rainforest.jpg",
+          "caption": "Base camp tim di tengah hutan"
+        }
+      ],
+      "tags": ["Ekspedisi", "Hutan Hujan", "Biodiversitas", "Penelitian", "Fotografi"],
+      "featured": true
+    },
+    {
+      "id": 6,
+      "title": "Perayaan Hari Masyarakat Adat Internasional 2024",
+      "slug": "perayaan-hari-masyarakat-adat-2024",
+      "date": "2024-08-09",
+      "category": "Acara",
+      "imageCount": 28,
+      "location": "Jayapura",
+      "photographer": "Papua Cultural Documentation Team",
+      "thumbnail": "/indigenous-peoples-day-celebration.jpg",
+      "coverImage": "/indigenous-peoples-day-celebration.jpg",
+      "excerpt": "Dokumentasi perayaan Hari Masyarakat Adat Internasional yang dihadiri 500+ peserta dari berbagai wilayah adat Papua.",
+      "description": "<p>Perayaan Hari Masyarakat Adat Internasional (International Day of the World's Indigenous Peoples) 2024 di Jayapura menampilkan kemeriahan budaya Papua dan sekaligus menjadi momentum advokasi hak-hak masyarakat adat. Acara dihadiri 500+ peserta dari 25 wilayah adat Papua, perwakilan pemerintah, NGO, dan akademisi.</p><h3>Tema Perayaan:</h3><p><strong>'Melindungi Hak Masyarakat Adat untuk Menentukan Prioritas Pembangunan Mereka Sendiri'</strong></p><h3>Rangkaian Acara:</h3><ul><li>Pawai budaya dari 25 kelompok masyarakat adat</li><li>Pameran kerajinan dan produk lokal</li><li>Panel diskusi: Hak Masyarakat Adat di Era Transisi Energi</li><li>Workshop: FPIC dalam Praktik</li><li>Penampilan tari dan musik tradisional</li><li>Pembacaan deklarasi bersama</li><li>Penghargaan untuk tokoh pejuang hak masyarakat adat</li></ul><h3>Poin Deklarasi:</h3><ul><li>Mendesak pengakuan legal 500.000 hektar wilayah adat di Papua</li><li>Menolak proyek ekstraktif tanpa FPIC</li><li>Meminta perlindungan aktivis dan pembela hak masyarakat adat</li><li>Menuntut keterlibatan bermakna dalam perencanaan pembangunan</li><li>Mengadvokasi pendidikan berbasis budaya lokal</li></ul><h3>Highlight Acara:</h3><ul><li>Pidato inspiratif dari Mama Yosepha Alomang, pemenang Goldman Prize</li><li>Penampilan spektakuler tari perang dari Suku Dani</li><li>Demo masak tradisional Bakar Batu</li><li>Pameran foto perjuangan masyarakat adat Papua</li><li>Launching buku 'Suara dari Tanah Papua'</li></ul><h3>Peserta:</h3><ul><li>25 kelompok masyarakat adat dari seluruh Papua</li><li>Perwakilan Kementerian Sosial RI</li><li>Perwakilan Komnas HAM</li><li>15 organisasi masyarakat sipil</li><li>Media lokal dan nasional</li></ul>",
+      "images": [
+        {
+          "url": "/cultural-parade-jayapura.jpg",
+          "caption": "Pawai budaya masyarakat adat di jalan protokol Jayapura"
+        },
+        {
+          "url": "/dani-war-dance-performance.jpg",
+          "caption": "Penampilan tari perang Suku Dani yang memukau"
+        },
+        {
+          "url": "/traditional-crafts-exhibition.jpg",
+          "caption": "Pameran kerajinan noken, ukiran kayu, dan perhiasan tradisional"
+        },
+        {
+          "url": "/panel-discussion-indigenous-rights.jpg",
+          "caption": "Panel diskusi tentang hak masyarakat adat di era transisi energi"
+        },
+        {
+          "url": "/mama-yosepha-speech.jpg",
+          "caption": "Mama Yosepha Alomang menyampaikan pidato inspiratif"
+        },
+        {
+          "url": "/bakar-batu-demonstration.jpg",
+          "caption": "Demonstrasi masak tradisional Bakar Batu"
+        },
+        {
+          "url": "/indigenous-youth-gathering.jpg",
+          "caption": "Pemuda masyarakat adat berdiskusi tentang masa depan"
+        },
+        {
+          "url": "/book-launching-ceremony.jpg",
+          "caption": "Peluncuran buku 'Suara dari Tanah Papua'"
+        }
+      ],
+      "tags": ["Acara", "Masyarakat Adat", "Budaya", "Advokasi", "Perayaan"],
+      "featured": false
+    },
+    {
+      "id": 7,
+      "title": "Keindahan Alam dan Budaya Papua",
+      "slug": "keindahan-alam-budaya-papua",
+      "date": "2024-01-20",
+      "category": "Dokumentasi",
+      "imageCount": 52,
+      "location": "Seluruh Papua",
+      "photographer": "Kolektif Fotografer Papua",
+      "thumbnail": "/papua-nature-culture-beauty.jpg",
+      "coverImage": "/papua-nature-culture-beauty.jpg",
+      "excerpt": "Koleksi foto terbaik yang menampilkan kekayaan alam dan keragaman budaya Papua dari berbagai wilayah adat.",
+      "description": "<p>Koleksi foto hasil kurasi dari puluhan fotografer lokal Papua yang menangkap esensi keindahan alam dan kekayaan budaya Papua. Foto-foto ini diambil sepanjang tahun 2023-2024 dari berbagai penjuru Papua, menampilkan landscape spektakuler, biodiversitas unik, dan tradisi budaya yang masih hidup.</p><h3>Tema Dokumentasi:</h3><ul><li><strong>Landscape Papua:</strong> Pegunungan, pantai, danau, sungai, hutan</li><li><strong>Biodiversitas:</strong> Burung cenderawasih, kanguru pohon, anggrek, kupu-kupu</li><li><strong>Budaya Hidup:</strong> Ritual, tarian, musik, kerajinan</li><li><strong>Kehidupan Sehari-hari:</strong> Aktivitas masyarakat adat, anak-anak Papua, perempuan</li><li><strong>Arsitektur Tradisional:</strong> Honai, rumah panggung, kariwari</li></ul><h3>Lokasi Pengambilan:</h3><ul><li>Raja Ampat - Keindahan bawah laut dan kepulauan</li><li>Lembah Baliem - Kehidupan Suku Dani dan pemandangan pegunungan</li><li>Danau Sentani - Landscape danau dan kehidupan nelayan</li><li>Pegunungan Arfak - Hutan moss dan burung endemik</li><li>Asmat - Budaya ukir dan hutan sagu</li><li>Cenderawasih Bay - Terumbu karang dan hiu paus</li><li>Teluk Bintuni - Hutan mangrove terluas</li></ul><h3>Fotografer Kontributor:</h3><ul><li>David Wenda - Landscape & Wildlife</li><li>Maria Kogoya - Portrait & Cultural Documentation</li><li>Yohanes Mambrasar - Underwater Photography</li><li>Plus 15 fotografer lokal lainnya</li></ul><h3>Penggunaan Koleksi:</h3><ul><li>Pameran foto keliling nasional</li><li>Kalender tahunan 'Papua Heritage'</li><li>Buku foto 'Papua: Tanah Surga Terakhir'</li><li>Materi promosi wisata berkelanjutan</li><li>Konten media sosial dan website</li></ul><h3>Pesan Visual:</h3><p>Melalui keindahan visual, koleksi ini ingin menyampaikan pesan bahwa Papua adalah warisan dunia yang harus dijaga. Keindahan alamnya yang luar biasa dan kekayaan budayanya yang unik adalah aset yang tak ternilai, bukan untuk dieksploitasi tetapi untuk dilestarikan.</p>",
+      "images": [
+        {
+          "url": "/raja-ampat-aerial-view.jpg",
+          "caption": "Keindahan kepulauan Raja Ampat dari udara"
+        },
+        {
+          "url": "/baliem-valley-landscape.jpg",
+          "caption": "Pemandangan Lembah Baliem yang memukau"
+        },
+        {
+          "url": "/cenderawasih-bird-display.jpg",
+          "caption": "Burung cenderawasih dalam ritual kawin yang indah"
+        },
+        {
+          "url": "/dani-tribe-traditional-life.jpg",
+          "caption": "Kehidupan tradisional Suku Dani di Lembah Baliem"
+        },
+        {
+          "url": "/sentani-lake-sunset.jpg",
+          "caption": "Sunset di Danau Sentani yang menawan"
+        },
+        {
+          "url": "/asmat-wood-carving-art.jpg",
+          "caption": "Seni ukir kayu khas Asmat yang mendetail"
+        },
+        {
+          "url": "/underwater-raja-ampat-coral.jpg",
+          "caption": "Keindahan terumbu karang Raja Ampat"
+        },
+        {
+          "url": "/papuan-children-smiling.jpg",
+          "caption": "Senyum ceria anak-anak Papua"
+        },
+        {
+          "url": "/traditional-honai-house.jpg",
+          "caption": "Rumah tradisional Honai di pegunungan"
+        },
+        {
+          "url": "/papuan-woman-weaving-noken.jpg",
+          "caption": "Perempuan Papua menenun noken tradisional"
+        }
+      ],
+      "tags": ["Dokumentasi", "Alam Papua", "Budaya", "Fotografi", "Heritage"],
+      "featured": true
+    },
+    {
+      "id": 8,
+      "title": "Pelatihan Pemantauan Lingkungan Berbasis Komunitas",
+      "slug": "pelatihan-pemantauan-lingkungan-2024",
+      "date": "2024-07-05",
+      "category": "Kegiatan",
+      "imageCount": 36,
+      "location": "Sorong, Papua Barat Daya",
+      "photographer": "Tim Ekologi Lestari JERAT Papua",
+      "thumbnail": "/community-environmental-monitoring-training.jpg",
+      "coverImage": "/community-environmental-monitoring-training.jpg",
+      "excerpt": "Pelatihan intensif 7 hari untuk 40 peserta dari komunitas pesisir dalam pemantauan kualitas air, kesehatan terumbu karang, dan ekosistem mangrove.",
+      "description": "<p>Pelatihan Pemantauan Lingkungan Berbasis Komunitas di Sorong ini dirancang khusus untuk memberdayakan masyarakat pesisir dalam memonitor kondisi lingkungan laut dan pesisir mereka secara mandiri. 40 peserta dari 10 kampung pesisir belajar teknik-teknik praktis pemantauan yang dapat mereka lakukan dengan peralatan sederhana.</p><h3>Peserta:</h3><ul><li>40 orang dari 10 kampung pesisir di Sorong</li><li>Komposisi: 60% laki-laki, 40% perempuan</li><li>Usia: 18-55 tahun</li><li>Latar belakang: nelayan, pembudidaya rumput laut, guide ekowisata</li></ul><h3>Materi Pelatihan:</h3><ul><li><strong>Hari 1-2:</strong> Pengantar ekosistem pesisir dan laut, pentingnya pemantauan komunitas</li><li><strong>Hari 3-4:</strong> Teknik pemantauan kualitas air (suhu, pH, salinitas, kekeruhan, sampah)</li><li><strong>Hari 5:</strong> Pemantauan kesehatan terumbu karang dengan metode Reef Check sederhana</li><li><strong>Hari 6:</strong> Pemantauan ekosistem mangrove (tutupan, regenerasi, ancaman)</li><li><strong>Hari 7:</strong> Pencatatan dan pelaporan data, penggunaan aplikasi mobile</li></ul><h3>Metode Pelatihan:</h3><ul><li>30% teori di kelas</li><li>70% praktik lapangan langsung</li><li>Learning by doing dengan pendampingan intensif</li><li>Diskusi kelompok dan sharing pengalaman</li></ul><h3>Peralatan yang Diberikan:</h3><p>Setiap kampung mendapat 1 paket peralatan monitoring:</p><ul><li>Water quality test kit sederhana</li><li>GPS handheld</li><li>Underwater camera untuk dokumentasi</li><li>Formulir pencatatan data</li><li>Panduan praktis pemantauan</li></ul><h3>Hasil Pelatihan:</h3><ul><li>40 peserta tersertifikasi sebagai monitor komunitas</li><li>10 kampung memiliki tim monitor terlatih</li><li>Protokol pemantauan standar untuk seluruh kampung</li><li>Sistem pelaporan data ke JERAT Papua dan Dinas Kelautan</li><li>Rencana aksi pemantauan rutin bulanan</li></ul><h3>Rencana Tindak Lanjut:</h3><ul><li>Pendampingan lapangan setiap 3 bulan</li><li>Refreshment training setahun sekali</li><li>Fasilitasi pertemuan antar monitor untuk sharing hasil</li><li>Bantuan teknis jika ada isu lingkungan terdeteksi</li></ul>",
+      "images": [
+        {
+          "url": "/training-classroom-session.jpg",
+          "caption": "Sesi kelas tentang pentingnya pemantauan lingkungan"
+        },
+        {
+          "url": "/water-quality-testing-practice.jpg",
+          "caption": "Praktik penggunaan water quality test kit"
+        },
+        {
+          "url": "/reef-check-underwater.jpg",
+          "caption": "Praktik reef check untuk monitoring kesehatan terumbu karang"
+        },
+        {
+          "url": "/mangrove-monitoring-field.jpg",
+          "caption": "Praktik pemantauan ekosistem mangrove"
+        },
+        {
+          "url": "/data-recording-training.jpg",
+          "caption": "Pelatihan pencatatan dan pelaporan data"
+        },
+        {
+          "url": "/women-monitoring-training.jpg",
+          "caption": "Perempuan pesisir aktif berpartisipasi dalam pelatihan"
+        },
+        {
+          "url": "/group-discussion-monitoring.jpg",
+          "caption": "Diskusi kelompok tentang tantangan pemantauan"
+        },
+        {
+          "url": "/certificate-distribution.jpg",
+          "caption": "Penyerahan sertifikat kepada monitor komunitas"
+        }
+      ],
+      "tags": ["Pelatihan", "Pemantauan Lingkungan", "Komunitas Pesisir", "Konservasi Laut"],
+      "featured": false
+    }
+  ]
+}
